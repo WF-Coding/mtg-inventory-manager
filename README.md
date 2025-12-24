@@ -1,2 +1,1 @@
-# mtg-inventory-manager
-MTG inventory manager
+# MTG Inventory Manager
