@@ -1,0 +1,7 @@
+﻿services:
+  mtg.inventorymanager:
+    image: mtg.inventorymanager
+    build:
+      context: .
+      dockerfile: MTG.InventoryManager/Dockerfile
+
